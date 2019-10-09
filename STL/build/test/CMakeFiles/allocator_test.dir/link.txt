@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -Wno-format-security -std="c++11" -g -DDEBUG   CMakeFiles/allocator_test.dir/allocator_test.cc.o  -o ../bin/allocator_test -rdynamic ../bin/libstl.a 

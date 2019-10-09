@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../bin/libstl.a  CMakeFiles/stl.dir/vector/vector.cc.o
+/usr/bin/ranlib ../bin/libstl.a

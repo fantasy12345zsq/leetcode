@@ -1,0 +1,2 @@
+/home/zsq/leetcode/STL/build/src/CMakeFiles/stl.dir
+/home/zsq/leetcode/STL/build/test/CMakeFiles/allocator_test.dir

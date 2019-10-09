@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zsq/leetcode/CLTHREAD/CLLogger.cc
+CLLogger.h
+/home/zsq/leetcode/CLTHREAD/CLLogger.h
+fcntl.h
+-
+unistd.h
+-
+errno.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/zsq/leetcode/CLTHREAD/CLLogger.h
+CLStatus.h
+/home/zsq/leetcode/CLTHREAD/CLStatus.h
+pthread.h
+-
+
+/home/zsq/leetcode/CLTHREAD/CLStatus.cc
+CLStatus.h
+/home/zsq/leetcode/CLTHREAD/CLStatus.h
+
+/home/zsq/leetcode/CLTHREAD/CLStatus.h
+
+/home/zsq/leetcode/CLTHREAD/main.cc
+CLLogger.h
+/home/zsq/leetcode/CLTHREAD/CLLogger.h
+

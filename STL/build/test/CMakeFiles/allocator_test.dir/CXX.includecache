@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/allocator/allocator.h
+new
+-
+cstddef
+-
+cstdlib
+-
+climits
+-
+iostream
+-
+
+/home/zsq/leetcode/STL/test/allocator_test.cc
+allocator/allocator.h
+/home/zsq/leetcode/STL/test/allocator/allocator.h
+vector
+-
+iostream
+-
+
